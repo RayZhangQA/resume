@@ -60,11 +60,11 @@ Career Profile:
 
 education:
   - degree: Selenium WebDriver with Java - Basics to Advanced Frameworks
-    field: Automation Frameworks with Java and Selenium WebDriver
+    field: Automation Frameworks with Java and Selenium
     link-degree: "https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/"
     university: Udemy
     link-university: "https://www.udemy.com/"
-  #  time: March 2018 – May 2018
+    time: Automation Frameworks with Java and Selenium
   #      details: |
   #        Describe your study here lorem ipsum dolor sit amet, consectetuer
   #                adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -75,12 +75,12 @@ education:
   #          - Bullet point
   #          - Bullet point
 
-  - degree: QA Automation Engineer Automated Testing Web Applications
-    field: Automated Testing Web Applications
-    link-degree: "https://career.softserveinc.com/en-us/technology/course/test_automation_with_java,_c_,_python__development"
-    university: SoftServe IT Academy
-    link-university: "https://career.softserveinc.com/en-us/technology"
-    time: January 2017 – May 2017
+  - degree: Selenium with Python Full Course For Beginners
+    field: Automation Frameworks with Python & Selenium
+    link-degree: "https://www.youtube.com/watch?v=o3tYiyE_OXE&t=6s"
+    university: Youtube - SDET Channel
+    link-university: "https://www.youtube.com/user/pavanoltraining/about"
+    time: Automation Frameworks with Python & Selenium
 
   - degree: QA Automation Engineer QA Complete Course
     field: QA Complete Course
