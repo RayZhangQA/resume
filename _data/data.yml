@@ -15,7 +15,7 @@ sidebar:
   email: rayzhangqa@gmail.com
   phone: +1 647-299-5699
   website: rayzhangqa.github.io/resume #do not add http://
-  linkedin: rayzhangqa
+  linkedin: ray-zhang-qa
   github: rayzhangqa
   #    gitlab:
   #    bitbucket:
@@ -31,31 +31,33 @@ sidebar:
     - idiom: Chinese
       level: Native
 
-  interests:
-    - item: Conditional Training
-      link:
+#  interests:
+#    - item: Conditional Training
+#      link:
 
-    - item: Cycling
-      link:
+#    - item: Cycling
+#      link:
 
-career-profile:
-  title: Career Profile
-  summary: |
-    Test Automation University Profile 👉<a target="_blank" href="https://testautomationu.applitools.com/me.html#ivopdimitrov">TAU Profile</a><br />
-    You could find me in the list of Test Automation University TOP💯students 👉<a target="_blank" href="https://testautomationu.applitools.com/tau100.html">TAU Leaderboard of Top 100 Test Automation Experts</a><br />
-    I really enjoy picking software apart and seeing where I can find flaws and I am passionate about improving
-    quality and shipping high-reliability products. I have worked with a range of different programming languages
-    and automation frameworks and I am always looking for opportunities to work with something new. The things that
-    I currently have the most experience working with are Java, Selenium WebDriver, Appium, JUnit, TestNG,
-    Cucumber-JVM (BDD), Gherkin, Git and Jenkins.
+SUMMARY OF QUALIFICATIONS: 
+	10+ years working in a Sr. QA position of software testing and automation, such as Unit, System, Integration, Regression, Exploratory, Load, Performance and Acceptance Testing
+	Extensive experiences of developing/updating/executing test strategies, planning, use cases, scenarios, test cases, automation scripts.
+	Provide excellent test & defect reports and coordinate with other teams to escalate issues and prioritize and delegate tasks. 
+	Automation Frameworks in Python, Java, JavaScript, Selenium WebDriver, Appium, Pytest, TestNG, Maven, Jenkins, Robot Framework, Cucumber, Rest API, AWS, JMeter, Postman and Microservices tests. 
+	Working experiences in both Agile and Waterfall methodologies, as well as CICD Pipeline and Continuous test. Version control with GIT, Bitbucket, GitHub.
+	Solid knowledge of Web & Mobile App tests from back end to client side. 
+	Experiences of Oracle and SQL databases with proficient SQL skills and Mongo DB. 
+	Rich experience of customer support for the UAT test and Production issues with excellent problem solving, analytical troubleshooting and time management skills to meet the deadlines.
+	Training and leading internal project QA teams and Outsourcing QA teams.
+	High Level of Attention to Detail, Ability to Handle Multiple Tasks and Projects, Exceptional Organizational Skills, Active and Reliable Team Player.
+
 
 education:
-  - degree: QA Automation Engineer Automated Testing Mobile Applications
-    field: Automated Testing Mobile Applications
-    link-degree: "https://pragmatic.bg/courses/mobile-apps-test-automation-course/"
-    university: Pragmatic IT Learning Academy
-    link-university: "https://pragmatic.bg/"
-    time: March 2018 – May 2018
+  - degree: Selenium WebDriver with Java - Basics to Advanced + Frameworks
+    field: Automation Frameworks with Java and Selenium WebDriver
+    link-degree: "https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/"
+    university: Udemy
+    link-university: "https://www.udemy.com/"
+  #  time: March 2018 – May 2018
   #      details: |
   #        Describe your study here lorem ipsum dolor sit amet, consectetuer
   #                adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
