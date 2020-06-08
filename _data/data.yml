@@ -7,29 +7,29 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Ivo Dimitrov
+  name: Ray Zhang
   tagline: QA Automation Engineer
-  avatar: profielPictureIvoDimitrov.jpg  #place a picture inside /assets/images/ folder and provide the name of the file below
+  avatar: profilePictureRayZhang.jpg  #place a picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: ivopdimitrov@gmail.com
-  phone: +359 885 74 77 79
-  website: ivodimitrov.github.io/resume #do not add http://
-  linkedin: ivopdimitrov
-  github: ivodimitrov
+  email: rayzhangqa@gmail.com
+  phone: +1 647-299-5699
+  website: rayzhangqa.github.io/resume #do not add http://
+  linkedin: rayzhangqa
+  github: rayzhangqa
   #    gitlab:
   #    bitbucket:
-  twitter: 'ivopdimitrov'
-  stack-overflow: 9163013/ivopdimitrov # Number/Username, e.g. 123456/alandoe
+  #twitter: 'ivopdimitrov'
+  #stack-overflow: 9163013/ivopdimitrov # Number/Username, e.g. 123456/alandoe
   #    codewars:
   #    goodreads: # Number-Username, e.g. 123456-alandoe
 
   languages:
     - idiom: English
-      level: Professional
+      level: Fluent
 
-    - idiom: German
-      level: Elementary
+    - idiom: Chinese
+      level: Native
 
   interests:
     - item: Conditional Training
