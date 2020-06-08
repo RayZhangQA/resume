@@ -42,23 +42,23 @@ career-profile:
   title: Summary Of Qualications
   summary: |
       10+ years working in a Sr. QA position of software testing and automation, such as Unit, System, 
-      Integration, Regression, Exploratory, Load, Performance and Acceptance Testing.
+      Integration, Regression, Exploratory, Load, Performance and Acceptance Testing
 
         - Extensive experiences of developing/updating/executing test strategies, planning, use cases, 
-        scenarios, test cases, automation scripts.
-        - Provide excellent test & defect reports and coordinate with other teams to escalate issues 
-        and prioritize and delegate tasks.
+        scenarios, test cases, automation scripts
+        - Provide excellent test & defect reports and coordinate with other teams to escalate issues, 
+        prioritize and assign tasks
         - Automation Frameworks in Python, Java, JavaScript, Selenium WebDriver, Appium, Pytest, TestNG, 
-        Maven, Jenkins, Robot Framework, Cucumber, Rest API, AWS, JMeter, Postman and Microservices tests.
+        Maven, Jenkins, Robot Framework, Cucumber, Rest API, AWS, JMeter, Postman and Microservices tests
         - Working experiences in both Agile and Waterfall methodologies, as well as CICD Pipeline and 
-        Continuous test. Version control with GIT, Bitbucket, GitHub.
-        - Solid knowledge of Web & Mobile App tests from back end to client side.
-        - Experiences of Oracle and SQL databases with proficient SQL skills and Mongo DB.
+        Continuous test. Version control with GIT, Bitbucket, GitHub
+        - Solid knowledge of Web & Mobile App tests from back end to client side
+        - Experiences of Oracle and SQL databases with proficient SQL skills and Mongo DB
         - Rich experience of customer support for the UAT test and Production issues with excellent problem 
-        solving, analytical troubleshooting and time management skills to meet the deadlines.
-        - Training and leading internal project QA teams and Outsourcing QA teams.
+        solving, analytical troubleshooting and time management skills to meet the deadlines
+        - Training and leading internal project QA teams and Outsourcing QA teams
         - High Level of Attention to Detail, Ability to Handle Multiple Tasks and Projects, Exceptional 
-        Organizational Skills, Active and Reliable Team Player.
+        Organizational Skills, Active and Reliable Team Player
 
 education:
   - degree: Selenium with Python Full Course For Beginners
@@ -113,15 +113,16 @@ education:
     time: Automotion Engineering
 
 experiences:
-  - role: Software Development Engineer in Test
+  - role: SDET - Software Development Engineer in Test
     time: Oct 2016 - Present
     company: AT&T - VODFlow Scrum Team
     link: "https://www.att.com/"
     details: |
-      Participate in the whole agile process of product development. Responsible for all aspects of testing.
+      Participate in the whole agile process of product development. Responsible for all aspects of testing
+      include both automated test suites and manual test cases.
 
         - Develop & Validate the stories, tasks, bugs assigned for the current sprint
-        - Creating, maintenaning, executing the automation test suites and manual test cases
+        - Creating, maintaining, executing the automation and manual tests across various streams
         - Implement and maintain test pipelines as part of the overall CI/CD delivery process
         - Leading the deployment of the new releases into Dev/Staging/Prod with GIT & BitBucket
         - Create the release notes and other QA documents in confluence
@@ -141,12 +142,12 @@ experiences:
         and automated test suites
         - Working closely with software developers and make sure all product requirements are met and bugs fixed
         - Design, develop and implement both manual and automated robust tests for the newly developed features
-        increasing test coverage and shorten the software development life cycle
+        - Increasing test coverage and shorten the software development life cycle
         - Analyse the results and logs of regular automated tests executions to ensure continuous improvement in
         quality and efficiency
-        - Track and report using Jira the life cycle of identified bugs, reproduce failures and investigate their
-        root causes. Verify bug fixes
-        - Provide comprehensive test reports and instructions of setup prod MP5 workflows and profiles. 
+        - Identify, track and report bugs in Jira, reproduce failures, investigate their root causes, and verify 
+        the bug fixes
+        - Provide comprehensive test reports, the detailed instructions of setup prod MP5 workflows and profiles
         - Leading, training, monitoring India MP5 QA team and new QA members.
  
   - role: Quality Assurance Engineer
