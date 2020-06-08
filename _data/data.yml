@@ -39,7 +39,7 @@ sidebar:
 #      link:
 
 career-profile:
-  title: Career Profile
+  title: Summary Of Qualications
   summary: |
       10+ years working in a Sr. QA position of software testing and automation, such as Unit, System, 
       Integration, Regression, Exploratory, Load, Performance and Acceptance Testing.
@@ -62,7 +62,7 @@ career-profile:
 
 education:
   - degree: Selenium WebDriver with Java - Basics to Advanced Frameworks
-    field: Automation Frameworks with Java and Selenium
+    field: Automation Frameworks - Java & Selenium
     link-degree: "https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/"
     university: Udemy
     link-university: "https://www.udemy.com/"
@@ -78,32 +78,39 @@ education:
   #          - Bullet point
 
   - degree: Selenium with Python Full Course For Beginners
-    field: Automation Frameworks with Python & Selenium
+    field: Automation Frameworks - Python & Selenium
     link-degree: "https://www.youtube.com/watch?v=o3tYiyE_OXE&t=6s"
     university: Youtube - SDET Channel
     link-university: "https://www.youtube.com/user/pavanoltraining/about"
     time: Automation Frameworks with Python & Selenium
 
-  - degree: QA Automation Engineer QA Complete Course
-    field: QA Complete Course
-    link-degree: "https://pragmatic.bg/courses/qa-complete-course/"
-    university: Pragmatic IT Learning Academy
-    link-university: "https://pragmatic.bg/"
-    time: March 2016 – October 2016
+  - degree: Robot Framework Test Automation - Level 1 & 2
+    field: Automation Framework - Robot Framework & Python
+    link-degree: "https://www.linkedin.com/learning/robot-framework-test-automation-level-1-selenium/about-me"
+    university: LinkedIn Learning
+    link-university: "https://www.linkedin.com/learning/"
+    time: Automation Framework - Robot Framework & Python
 
-  - degree: Master degree in Marketing
-    field: Marketing
-    link-degree: "https://www.unwe.bg/en/structure/render/227"
-    university: University of National and World Economy
-    link-university: "https://www.unwe.bg/en/"
-    time: September 2006 – July 2008
+  - degree: Learn Python Programming Masterclass
+    field: Python Language
+    link-degree: "https://www.udemy.com/course/python-the-complete-python-developer-course/"
+    university: Udemy
+    link-university: "https://www.udemy.com/"
+    time: Python Language
+    
+  - degree: Master of Information Technology
+    field: Information Technology
+    link-degree: "https://www.griffith.edu.au/study/degrees/master-of-information-technology-5612"
+    university: Griffith University - Gold Coast Campus
+    link-university: "https://www.griffith.edu.au/about-griffith/campuses-facilities/gold-coast"
+    time: Information Technology
 
-  - degree: Bachelor degree in Automotive Engineering
-    field: Automotive Engineering
-    link-degree: "https://tu-sofia.bg/specialties/preview/776"
-    university: Technical University
-    link-university: "https://tu-sofia.bg/"
-    time: September 2001 – July 2005
+  - degree: Bachelor degree in Automotion
+    field: Automotion Engineer
+    link-degree: "http://en.control.sdu.edu.cn/info/1010/1090.htm"
+    university: Shandong University
+    link-university: "https://www.sdu.edu.cn/"
+    time: Automotion Engineer
 
 experiences:
   - role: Senior Quality Assurance Automation Engineer
