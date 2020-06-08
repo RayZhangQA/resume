@@ -39,17 +39,25 @@ sidebar:
 #      link:
 
 SUMMARY OF QUALIFICATIONS: 
-	10+ years working in a Sr. QA position of software testing and automation, such as Unit, System, Integration, Regression, Exploratory, Load, Performance and Acceptance Testing
-	Extensive experiences of developing/updating/executing test strategies, planning, use cases, scenarios, test cases, automation scripts.
-	Provide excellent test & defect reports and coordinate with other teams to escalate issues and prioritize and delegate tasks. 
-	Automation Frameworks in Python, Java, JavaScript, Selenium WebDriver, Appium, Pytest, TestNG, Maven, Jenkins, Robot Framework, Cucumber, Rest API, AWS, JMeter, Postman and Microservices tests. 
-	Working experiences in both Agile and Waterfall methodologies, as well as CICD Pipeline and Continuous test. Version control with GIT, Bitbucket, GitHub.
-	Solid knowledge of Web & Mobile App tests from back end to client side. 
-	Experiences of Oracle and SQL databases with proficient SQL skills and Mongo DB. 
-	Rich experience of customer support for the UAT test and Production issues with excellent problem solving, analytical troubleshooting and time management skills to meet the deadlines.
-	Training and leading internal project QA teams and Outsourcing QA teams.
-	High Level of Attention to Detail, Ability to Handle Multiple Tasks and Projects, Exceptional Organizational Skills, Active and Reliable Team Player.
+    details: |
+      10+ years working in a Sr. QA position of software testing and automation, such as Unit, System, 
+      Integration, Regression, Exploratory, Load, Performance and Acceptance Testing.
 
+        - Extensive experiences of developing/updating/executing test strategies, planning, use cases, 
+        scenarios, test cases, automation scripts.
+        - Provide excellent test & defect reports and coordinate with other teams to escalate issues 
+        and prioritize and delegate tasks.
+        - Automation Frameworks in Python, Java, JavaScript, Selenium WebDriver, Appium, Pytest, TestNG, 
+        Maven, Jenkins, Robot Framework, Cucumber, Rest API, AWS, JMeter, Postman and Microservices tests.
+        - Working experiences in both Agile and Waterfall methodologies, as well as CICD Pipeline and 
+        Continuous test. Version control with GIT, Bitbucket, GitHub.
+        - Solid knowledge of Web & Mobile App tests from back end to client side.
+        - Experiences of Oracle and SQL databases with proficient SQL skills and Mongo DB.
+        - Rich experience of customer support for the UAT test and Production issues with excellent problem 
+        solving, analytical troubleshooting and time management skills to meet the deadlines.
+        - Training and leading internal project QA teams and Outsourcing QA teams.
+        - High Level of Attention to Detail, Ability to Handle Multiple Tasks and Projects, Exceptional 
+        Organizational Skills, Active and Reliable Team Player.
 
 education:
   - degree: Selenium WebDriver with Java - Basics to Advanced + Frameworks
