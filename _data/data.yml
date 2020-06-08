@@ -113,66 +113,57 @@ education:
     time: Automotion Engineering
 
 experiences:
-  - role: Senior Quality Assurance Automation Engineer
-    time: June 2019 - Present
-    company: ec4u expert consulting ag - CRM consulting services
-    link: "https://www.ec4u.com/en/"
+  - role: Software Development Engineer in Test
+    time: Oct 2016 - Present
+    company: AT&T - VODFlow Scrum Team
+    link: "https://www.att.com/"
     details: |
-      Responsible for all aspects of testing, from analysis of requirements to design, from implementation to
-      defects management, both automated or manually if required.
+      Participate in the whole agile process of product development. Responsible for all aspects of testing.
 
-        - Participate actively in creation and maintenance of the test automation frameworks and test
-        suites
+        - Develop & Validate the stories, tasks, bugs assigned for the current sprint
+        - Creating, maintenaning, executing the automation test suites and manual test cases
         - Implement and maintain test pipelines as part of the overall CI/CD delivery process
-        - Establish and implement test automation standards and guidelines
-        - Develop and implement test prerequisites as test metadata and configurations
-        - Review and evaluate requirements documentation (business requirements, solution designs
-        and architecture diagrams)
-        - Troubleshoot and follow to closure complex issues
-        - Communicate and apply automation across various streams
-        - Follow and contribute to the company-wide test strategy, processes and the established TA
-        guidelines
+        - Leading the deployment of the new releases into Dev/Staging/Prod with GIT & BitBucket
+        - Create the release notes and other QA documents in confluence
+        - Login, prioritize, triage, assign and validate the bugs, discuss the solutions with developers
+        - Participate, support the integration tests and collaborate with other scrum teams
+        - Troubleshooting and investigating the issues occurred in various environments and tests
 
-  - role: Quality Assurance Automation Engineer
-    time: August 2017 - June 2019
-    company: Tide - Business Banking App
-    link: "https://www.tide.co/"
+  - role: Sr. QA Engineer and Team Leader
+    time: Apr 2014 - Sep 2016
+    company: QuickPlay Media Inc. - MP5 Developing Team
+    link: "https://www.quickplay.com"
     details: |
       Collaborate with the development team and be responsible for building, testing, deploying and executing
       comprehensive solutions to ensure consistent delivery of high-quality software releases.
 
-        - Ensure bug-free software, seamless usability and smooth user experience
+        - Optimise, investigate, debug, review and update the functional, sanity, regression, acceptance manual
+        and automated test suites
         - Working closely with software developers and make sure all product requirements are met and bugs fixed
         - Design, develop and implement both manual and automated robust tests for the newly developed features
         increasing test coverage and shorten the software development life cycle
-        - Optimise, investigate, debug, review and update the available integration, functional and regression manual
-        and automated test suites
         - Analyse the results and logs of regular automated tests executions to ensure continuous improvement in
         quality and efficiency
         - Track and report using Jira the life cycle of identified bugs, reproduce failures and investigate their
         root causes. Verify bug fixes
-        - Provide comprehensive test reports
-
-  - role: Quality Assurance Automation Engineer
-    time: February 2016 - August 2017
-    company: ActivTrades - Forex Trading Platform
-    link: "https://www.activtrades.com/en/"
+        - Provide comprehensive test reports and instructions of setup prod MP5 workflows and profiles. 
+        - Leading, training, monitoring India MP5 QA team and new QA members.
+ 
+  - role: Quality Assurance Engineer
+    time: Nov 2007 - Mar 2014
+    company: QuickPlay Media Inc. - Open Video Developing Team
+    link: "https://www.quickplay.com"
     details: |
-      Conducting tests before product launches to ensure software runs smoothly and meets company needs,
-      while being cost-effective. Enjoy providing end-to-end solutions to software quality problems.
-
-        - Participate in the whole agile process of product development
+      Conducting tests before product launches to ensure software runs smoothly and meets customer requirements
+    
+        - Define test plans, create and execute test cases include manual and automated test suites
         - Estimating, prioritising, planning and coordinating quality testing activities
-        - Define test plans, create and execute test cases
-        - Test the latest version of Web and Mobile applications thoroughly, finding bugs and errors that will
-        impact the customer experience
-        - Ensure new features and/or enhancements are correct as per the technical specifications
-        - Produce, run and analyse functional, regression tests
-        - Create issue reports for the engineers to review and fix, providing extensive explanation for how to
-        recreate bugs and where errors can be found
-        - Track bug fixes to determine if they are valid and complete. Following up on each case
-        - Collaborate closely with Developers and Business Owners to ensure complete test coverage
+        - Test the latest version of Web and Mobile applications on both server side and client side        
+        - Performing defects review, analysis, and troubleshooting with extensive explanation of recreating bugs 
+        and where & how the errors can be found
         - Prepare and communicate test status and progress reports
+        - Support customer UAT tests and follows up with other teams internally and externally
+        - Perform Load and performing tests with JMeter
 
 projects:
   title: Projects
