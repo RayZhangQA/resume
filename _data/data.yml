@@ -61,22 +61,6 @@ career-profile:
         Organizational Skills, Active and Reliable Team Player.
 
 education:
-  - degree: Selenium WebDriver with Java - Basics to Advanced Frameworks
-    field: Automation Frameworks - Java & Selenium
-    link-degree: "https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/"
-    university: Udemy
-    link-university: "https://www.udemy.com/"
-    time: Automation Frameworks with Java and Selenium
-  #      details: |
-  #        Describe your study here lorem ipsum dolor sit amet, consectetuer
-  #                adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-  #                sociis natoque penatibus et magnis dis parturient montes, nascetur
-  #                ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-  #                pretium quis, sem.
-  #
-  #          - Bullet point
-  #          - Bullet point
-
   - degree: Selenium with Python Full Course For Beginners
     field: Automation Frameworks - Python & Selenium
     link-degree: "https://www.youtube.com/watch?v=o3tYiyE_OXE&t=6s"
@@ -98,6 +82,22 @@ education:
     link-university: "https://www.udemy.com/"
     time: Python Language
     
+  - degree: Selenium WebDriver with Java - Basics to Advanced Frameworks
+    field: Automation Frameworks - Java & Selenium
+    link-degree: "https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/"
+    university: Udemy
+    link-university: "https://www.udemy.com/"
+    time: Automation Frameworks with Java and Selenium
+  #      details: |
+  #        Describe your study here lorem ipsum dolor sit amet, consectetuer
+  #                adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+  #                sociis natoque penatibus et magnis dis parturient montes, nascetur
+  #                ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+  #                pretium quis, sem.
+  #
+  #          - Bullet point
+  #          - Bullet point
+
   - degree: Master of Information Technology
     field: Information Technology
     link-degree: "https://www.griffith.edu.au/study/degrees/master-of-information-technology-5612"
@@ -110,7 +110,7 @@ education:
     link-degree: "http://en.control.sdu.edu.cn/info/1010/1090.htm"
     university: Shandong University
     link-university: "https://www.sdu.edu.cn/"
-    time: Automotion Engineer
+    time: Automotion Engineering
 
 experiences:
   - role: Senior Quality Assurance Automation Engineer
