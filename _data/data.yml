@@ -14,9 +14,9 @@ sidebar:
   # Sidebar links
   email: rayzhangqa@gmail.com
   phone: +1 647-299-5699
-  website: rayzhangqa.github.io/resume #do not add http://
-  linkedin: ray-zhang-qa
-  github: rayzhangqa
+  website: rayzhangqa.github.io #do not add http://
+  linkedin: RayZhangQA
+  github: RayZhangQA
   #    gitlab:
   #    bitbucket:
   #twitter: 'ivopdimitrov'
@@ -60,7 +60,7 @@ career-profile:
         - High Level of Attention to Detail, Ability to Handle Multiple Tasks and Projects, Exceptional 
         Organizational Skills, Active and Reliable Team Player
 
-education:
+continuing-education:
   - degree: Selenium with Python Full Course For Beginners
     field: Automation Frameworks - Python & Selenium
     link-degree: "https://www.youtube.com/watch?v=o3tYiyE_OXE&t=6s"
@@ -88,16 +88,8 @@ education:
     university: Udemy
     link-university: "https://www.udemy.com/"
     time: Automation Frameworks with Java and Selenium
-  #      details: |
-  #        Describe your study here lorem ipsum dolor sit amet, consectetuer
-  #                adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-  #                sociis natoque penatibus et magnis dis parturient montes, nascetur
-  #                ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-  #                pretium quis, sem.
-  #
-  #          - Bullet point
-  #          - Bullet point
 
+education:
   - degree: Master of Information Technology
     field: Information Technology
     link-degree: "https://www.griffith.edu.au/study/degrees/master-of-information-technology-5612"
