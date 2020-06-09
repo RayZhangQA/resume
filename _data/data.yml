@@ -60,7 +60,7 @@ career-profile:
         - High Level of Attention to Detail, Ability to Handle Multiple Tasks and Projects, Exceptional 
         Organizational Skills, Active and Reliable Team Player
 
-education:
+continuingeducation:
   - degree: Selenium with Python Full Course For Beginners
     field: Automation Frameworks - Python & Selenium
     link-degree: "https://www.youtube.com/watch?v=o3tYiyE_OXE&t=6s"
@@ -89,6 +89,7 @@ education:
     link-university: "https://www.udemy.com/"
     time: Automation Frameworks with Java and Selenium
 
+education:
   - degree: Master of Information Technology
     field: Information Technology
     link-degree: "https://www.griffith.edu.au/study/degrees/master-of-information-technology-5612"
