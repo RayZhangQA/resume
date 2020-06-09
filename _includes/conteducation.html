@@ -1,13 +1,13 @@
-{% assign conteducation = site.data.data.conteducation %}
-{% if conteducation %}
-{% if site.data.data.sidebar.conteducation %}
+{% assign education = site.data.data.education %}
+{% if education %}
+{% if site.data.data.sidebar.education %}
 <div class="education-container container-block">
 
     <h2 class="container-block-title">
         Continuing Education
     </h2>
 
-    {% for graduation in conteducation %}
+    {% for graduation in education %}
     <div class="item">
         <!--        <h4 class="degree">{{ graduation.degree }}</h4>-->
         <h4 class="degree">
@@ -35,7 +35,7 @@
         Continuing Education
     </h2>
 
-    {% for graduation in conteducation %}
+    {% for graduation in education %}
     <div class="item">
 
         <div class="meta">
