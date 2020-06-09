@@ -60,7 +60,7 @@ career-profile:
         - High Level of Attention to Detail, Ability to Handle Multiple Tasks and Projects, Exceptional 
         Organizational Skills, Active and Reliable Team Player
 
-continuingeducation:
+conteducation:
   - degree: Selenium with Python Full Course For Beginners
     field: Automation Frameworks - Python & Selenium
     link-degree: "https://www.youtube.com/watch?v=o3tYiyE_OXE&t=6s"
@@ -97,12 +97,12 @@ education:
     link-university: "https://www.griffith.edu.au/about-griffith/campuses-facilities/gold-coast"
     time: Information Technology
 
-  - degree: Bachelor degree in Automotion
+  - degree: Bachelor degree in Automation
     field: Automotion Engineer
     link-degree: "http://en.control.sdu.edu.cn/info/1010/1090.htm"
     university: Shandong University
     link-university: "https://www.sdu.edu.cn/"
-    time: Automotion Engineering
+    time: Automation Engineering
 
 experiences:
   - role: SDET - Software Development Engineer in Test
