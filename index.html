@@ -10,6 +10,12 @@ layout: default
 
 {% endunless %}
 
+{% unless site.data.data.sidebar.continingeducation %}
+
+{% include continuingeducation.html %}
+
+{% endunless %}
+
 {% include experiences.html %}
 
 {% include projects.html %}
