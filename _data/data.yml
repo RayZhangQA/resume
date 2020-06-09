@@ -61,6 +61,21 @@ career-profile:
         - High Level of Attention to Detail, Ability to Handle Multiple Tasks and Projects, Exceptional 
         Organizational Skills, Active and Reliable Team Player
 
+education:
+  - degree: Master of Information Technology
+    field: Information Technology
+    link-degree: "https://www.griffith.edu.au/study/degrees/master-of-information-technology-5612"
+    university: Griffith University - Gold Coast Campus
+    link-university: "https://www.griffith.edu.au/about-griffith/campuses-facilities/gold-coast"
+    time: Information Technology
+
+  - degree: Bachelor degree in Automation
+    field: Automotion Engineer
+    link-degree: "http://en.control.sdu.edu.cn/info/1010/1090.htm"
+    university: Shandong University
+    link-university: "https://www.sdu.edu.cn/"
+    time: Automation Engineering
+    
 conteducation:
   - degree: Selenium with Python Full Course For Beginners
     field: Automation Frameworks - Python & Selenium
@@ -88,22 +103,7 @@ conteducation:
     link-degree: "https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/"
     university: Udemy
     link-university: "https://www.udemy.com/"
-    time: Automation Frameworks with Java and Selenium
-
-education:
-  - degree: Master of Information Technology
-    field: Information Technology
-    link-degree: "https://www.griffith.edu.au/study/degrees/master-of-information-technology-5612"
-    university: Griffith University - Gold Coast Campus
-    link-university: "https://www.griffith.edu.au/about-griffith/campuses-facilities/gold-coast"
-    time: Information Technology
-
-  - degree: Bachelor degree in Automation
-    field: Automotion Engineer
-    link-degree: "http://en.control.sdu.edu.cn/info/1010/1090.htm"
-    university: Shandong University
-    link-university: "https://www.sdu.edu.cn/"
-    time: Automation Engineering
+    time: Automation Frameworks with Java and Selenium   
 
 experiences:
   - role: SDET - Software Development Engineer in Test
