@@ -165,25 +165,20 @@ projects:
     API, UI Web & Mobile Test Automation Frameworks built from scratch
 
   assignments:
-    - title: Web Test Automation Framework Selenium WebDriver with Java Framework
-      link: "https://github.com/IvoDimitrov/selenium-webdriver-java-framework"
-      tagline: "Java-based test automation framework built on top of the most popular solutions Selenium WebDriver,
+    - title: Selenium WebDriver with Java - Framework Building from Scratch
+      link: "https://github.com/RayZhangQA/BuildAutoFWKFromScratch"
+      tagline: "Java-based test automation framework built on top of the most popular solutions with Selenium WebDriver,
       TestNG and Maven. Test code organized using the Page Object Model."
 
-    - title: Mobile Test Automation Framework for native, hybrid and web apps for iOS and Android
-      link: "https://github.com/IvoDimitrov/mobile-testing"
-      tagline: "Java-based test automation framework that integrates with tools such as Appium, JUnit, TestNG,
-          Cucumber (BDD), Maven and Gradle."
+    - title: Selenium Basic to Advanced with Java Core Practice
+      link: "https://github.com/RayZhangQA/JavaSeleniumAutoFWK"
+      tagline: "Java-based test automation framework. The practice of selenium webdriver include various of web elements, 
+	  locators, synchronizations and etc......"
 
-    - title: Web Test Automation Framework
-      link: "https://github.com/IvoDimitrov/tests-at-amazon"
-      tagline: "Java-based test automation framework built on top of the most popular solutions Selenium WebDriver,
-      JUnit, TestNG, Cucumber (BDD) and Maven."
-
-    - title: API Testing and validating REST services. REST Assured Java Framework and API tests
-      link: "https://github.com/IvoDimitrov/rest-assured-java-framework"
-      tagline: "Java-based API test automation framework that integrates with tools such as REST Assured, JUnit, and
-      Maven."
+    - title: Web Automation Using Robot Framework - Selenium with Python
+      link: "https://github.com/RayZhangQA/RobotAutomationSDET"
+      tagline: "Python-based Robot framework built on top of the most popular solutions Selenium WebDriver,
+      Pabot, Jenkins, MySQL, DDT using Excel & CSV files. Test code organized using the Page Object Model."
 
 #publications:
 #  title: Publications
@@ -197,27 +192,27 @@ projects:
 #      authors: Donald E. Knuth
 #      conference: Addison-Wesley, 1968
 
-skills:
-  title: Skills &amp; Proficiency
 
-  toolset:
-    - name: Java
-      level: 78%
+#  title: Skills &amp; Proficiency
 
-    - name: Selenium WebDriver
-      level: 85%
+#  toolset:
+#    - name: Java
+#      level: 78%
 
-    - name: Appium
-      level: 85%
+#    - name: Selenium WebDriver
+#      level: 85%
 
-    - name: JUnit
-      level: 95%
+#    - name: Appium
+#      level: 85%
 
-    - name: TestNG
-      level: 95%
+#    - name: JUnit
+#      level: 95%
 
-    - name: Cucumber-JVM
-      level: 95%
+#    - name: TestNG
+#      level: 95%
+
+#    - name: Cucumber-JVM
+#      level: 95%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="https://github.com/RayZhangQA" target="_blank" rel="nofollow">Ray Zhang</a>
