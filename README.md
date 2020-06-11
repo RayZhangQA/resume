@@ -3,6 +3,9 @@
 A simple Jekyll + GitHub Pages powered resume.
 
 Change all the details from one place: `_data/data.yml` file.
+I added a sidebar section of "Continuing Education" and changed "Education" to "Academic Education"
+Many other changes based on my own skill set and expericence. 
+Feel Free to contact me if you have any question.
 
 ## Themes
 There are 6 color schemes available: 
