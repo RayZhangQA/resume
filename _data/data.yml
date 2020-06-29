@@ -106,22 +106,17 @@ conteducation:
     time: Automation Framework - Robot Framework & Python
 
 experiences:
-  - role:  Software Development Engineer in Test
-    time: Oct 2016 - Feb 2020
-    company: AT&T - VODFlow Scrum Team
-    link: "https://www.att.com/"
+  - role:  Sr. QA Engineer - Contract
+    time: March 2020 - Present
+    company: Corus Entertainment - Soda Scrum Team
+    link: "https://www.corusent.com/"
     details: |
-      Participate in the whole agile process of product development. Responsible for all aspects of testing
-      include both automated test suites and manual test cases.
 
-        - Develop & Validate the stories, tasks, bugs assigned for the current sprint
-        - Creating, maintaining, executing the automation and manual tests across various streams
-        - Implement and maintain test pipelines as part of the overall CI/CD delivery process
-        - Leading the deployment of the new releases into Dev/Staging/Prod with GIT & BitBucket
-        - Create the release notes and other QA documents in confluence
-        - Login, prioritize, triage, assign and validate the bugs, discuss the solutions with developers
-        - Participate, support the integration tests and collaborate with other scrum teams
-        - Troubleshooting and investigating the issues occurred in various environments and tests
+        - Collaborating with team members of different disciplines across multiple scrum teams in Agile environment
+        - Create, execute and maintain automated test suites for Websites using Selenium WebDriver and Java
+        - Provide testing estimates based on specifications and acceptance criteria 
+        - Merge and approve developer pull requests and manage the deployment of new features into production
+        - Logging, assign and validate the bugs in Jira and provide sprint-based test reports
 
   - role: SDET - Software Development Engineer in Test
     time: Oct 2016 - Feb 2020
