@@ -40,7 +40,7 @@ sidebar:
 #      link:
 
 career-profile:
-  title: Summary Of Qualications
+  title: Summary Of Qualifications
   summary: |
       10+ years working in a Sr. QA position of software testing and automation, such as Unit, System, 
       Integration, Regression, Exploratory, Load, Performance and Acceptance Testing
@@ -106,8 +106,19 @@ conteducation:
     time: Automation Framework - Robot Framework & Python
 
 experiences:
+  - role: Sr. QA Engineer - Contract
+    time: March 2020 - Present
+    company: Corus Entertainment - Soda Project Team
+    link: "https://www.corusent.com/"
+    details: |
+		- Collaborating with team members of different disciplines across multiple scrum teams in Agile environment 
+		- Create, execute and maintain automated test suites for Websites using Selenium WebDriver and Java
+		- Provide testing estimates based on specifications and acceptance criteria 
+		- Merge and approve developer pull requests and manage the deployment of new features into production.
+		- Logging, assign and validate the bugs in Jira and provide sprint-based test reports
+
   - role: SDET - Software Development Engineer in Test
-    time: Oct 2016 - Present
+    time: Oct 2016 - Feb 2020
     company: AT&T - VODFlow Scrum Team
     link: "https://www.att.com/"
     details: |
