@@ -111,7 +111,8 @@ experiences:
     company: Corus Entertainment - Soda Project Team
     link: "https://www.corusent.com/"
     details: |
-		- Collaborating with team members of different disciplines across multiple scrum teams in Agile environment 
+	  Collaborating with team members of different disciplines across multiple scrum teams in Agile environment.
+ 
 		- Create, execute and maintain automated test suites for Websites using Selenium WebDriver and Java
 		- Provide testing estimates based on specifications and acceptance criteria 
 		- Merge and approve developer pull requests and manage the deployment of new features into production.
