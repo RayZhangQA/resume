@@ -113,15 +113,23 @@ conteducation:
     link-university: "https://www.linkedin.com/learning/"
     time: Automation Framework - Robot Framework & Python
 
+  - degree: Appium Mobile Automation Testing From Scratch + Frameworks
+    field: Automation Framework - Appium Android and iOS Automation + real time examples
+    link-degree: "https://www.udemy.com/course/mobile-automation-using-appiumselenium-3/"
+    university: LinkedIn Learning
+    link-university: "https://www.linkedin.com/learning/"
+    time: Appium Android and iOS Automation with Java & Selenium + real time examples
+
+
 experiences:
   - role:  Sr. QA Engineer - Contract
-    time: March 2020 - Present
+    time: March 2020 - August 2020
     company: Corus Entertainment - Soda Scrum Team
     link: "https://www.corusent.com/"
     details: |
 
         - Collaborating with team members of different disciplines across multiple scrum teams in Agile environment
-        - Create, execute and maintain automated test suites for Websites using Selenium WebDriver and Java and JavaScript, Soap UI.
+        - Create, execute and maintain automated test suites for Websites using Selenium WebDriver, Java, Maven, TestNG, Jenkins, Github, Appium + BrowserStack. 
         - Provide testing estimates based on specifications and acceptance criteria 
         - Merge and approve developer pull requests and manage the deployment of new features into production
         - Logging, assign and validate the bugs in Jira and provide sprint-based test reports
@@ -134,8 +142,8 @@ experiences:
       Participate in the whole agile process of product development. Responsible for all aspects of testing
       include both automated test suites and manual test cases.
 
-        - Develop & Validate the stories, tasks, bugs assigned for the current sprint
-        - Creating, maintaining, executing the automation test suites with Java, JavaScript, Python, Selenium, Robot Framework, Postman, TestNG, Jenkins
+        - Develop & Validate the AWS workflows which combined with Web UI, API calls and Microservices.
+        - Creating, maintaining, executing the automation test suites with Java, JavaScript, Selenium, Maven, TestNG, Jenkins, Python, Robot Framework, Postman, Rest API, Appium with Android platform.
         - Implement and maintain test pipelines as part of the overall CI/CD delivery process
         - Leading the deployment of the new releases into Dev/Staging/Prod with GIT & BitBucket
         - Create the release notes and other QA documents in confluence
@@ -157,7 +165,7 @@ experiences:
         - Design, develop and implement both manual and automated robust tests for the newly developed features
         - Increasing test coverage and shorten the software development life cycle
         - Analyse the results and logs of regular automated tests executions to ensure continuous improvement in
-        quality and efficiency with Java, Selenium, REST API
+        quality and efficiency with Java, Selenium, Appium, REST API
         - Identify, track and report bugs in Jira, reproduce failures, investigate their root causes, and verify 
         the bug fixes
         - Provide comprehensive test reports, the detailed instructions of setup prod MP5 workflows and profiles
