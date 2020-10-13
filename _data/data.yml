@@ -78,6 +78,13 @@ education:
     time: Automation Engineering
     
 conteducation:
+  - degree: Python SDET-Backend Rest API Automation with BDD Framework
+    field: Python Language
+    link-degree: "https://www.udemy.com/course/python-sdet-rest-api-automation/"
+    university: Udemy
+    link-university: "https://www.udemy.com/"
+    time: Build Python Utilitiesfor for Rest API with SQL Integration, Batch Jobs, Web Scrapping etc
+
   - degree: Learn Python Programming Masterclass
     field: Python Language
     link-degree: "https://www.udemy.com/course/python-the-complete-python-developer-course/"
